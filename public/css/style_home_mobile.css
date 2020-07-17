@@ -1,0 +1,94 @@
+@font-face {
+    font-family: [Lato];
+    src: url(../font/Lato/Lato-Black.ttf);
+}
+
+body {
+    height: 100%;
+}
+
+.box_main {
+    font: Lato;
+}
+
+.box_form {
+    align-items: center;
+    padding-left: 2vh;
+}
+
+.form {
+    margin-top: 12vh;
+    width: 50vh;
+}
+
+.form-control {
+    background-color: #F1F1F1;
+}
+
+.title {
+    text-align: center;
+}
+
+label {
+    color: #848484;
+    font-size: small;
+    padding: 0px 0px 0px;
+}
+
+.btn-custom {
+    width: 130px;
+    background-color: #795818;
+    color: white;
+}
+
+.element_footer {
+    margin-top: 4vh;
+    margin-bottom: 3vh;
+}
+
+.box_footer {
+    background: #FFDAA0;
+}
+
+.box_icons {
+    margin-left: 20vh;
+}
+
+.box_color {
+    margin-right: 7vh;
+}
+
+.box_color1 {
+    background: #FFDAA0;
+    color: #795818;
+    text-align: center;
+    height: 20vh;
+    width: 50vh;
+    font-weight: 100;
+    padding-right: 4vh;
+    padding-top: 4vh;
+}
+
+.box_color2 {
+    background: #795818;
+    color: #FFDAA0;
+    width: 50vh;
+    height: 20vh;
+    text-align: center;
+    padding-right: 4vh;
+    padding-top: 4vh;
+}
+
+.box_map {
+    padding-left: 4vh;
+}
+
+.box_label {
+    background: #F1F1F1;
+    margin-top: 10vh;
+}
+
+.label_position {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}

@@ -1,0 +1,47 @@
+@font-face {
+    font-family: [Lato];
+    src: url(../font/Lato/Lato-Black.ttf);
+}
+
+.box_main {
+    font: Lato;
+}
+
+.box_form {
+    align-items: center;
+    padding-right: 20px;
+}
+
+.form {
+    margin-top: 12vh;
+    width: 50vh;
+}
+
+.form-control {
+    background-color: #F1F1F1;
+}
+
+.title {
+    text-align: center;
+}
+
+label {
+    color: #848484;
+    font-size: small;
+    padding: 0px 0px 0px;
+}
+
+.btn-custom {
+    width: 130px;
+    background-color: #795818;
+    color: white;
+}
+
+.element_footer {
+    margin-top: 4vh;
+    margin-bottom: 3vh;
+}
+
+.box_footer {
+    background: #FFDAA0;
+}
